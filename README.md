@@ -3,7 +3,12 @@ Split a game or application across HDD storages and SSD/M.2 SSD devices
 
 ---
 
+For reference the German language discussions about this tool(s) over at [NGB.to - Programmier-Idee-Teamwork "split-that-game"](https://ngb.to/threads/94111-Programmier-Idee-Teamwork-quot-split-that-game-quot)
+
+---
+
 **German language project outline:**
+
 ### Idee und Hintergrund
 Die Grundidee ist einfach: *Spiele oder Anwendungen zu splitten bzw. aufzuteilen und höchstmögliche Performance versus Speichernutzung zu erreichen.*
 
